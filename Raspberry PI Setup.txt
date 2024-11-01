@@ -1,0 +1,10 @@
+"Raspberry PI Setup"
+
+sudo apt-get update
+sudo apt-get upgrade
+
+sudo apt-get install python3-opencv python3-flask
+
+pip3 install numpy
+
+
